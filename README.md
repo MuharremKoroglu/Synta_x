@@ -3,7 +3,8 @@
 #### Thank You for taking the time to view my repository 
 
 ## <h2> About This App <img src = "https://c.tenor.com/JsoERRQcZqYAAAAi/thumbs-up-joypixels.gif" width = 32px></h2>
-This app is a blog site contact page and shows how developers can use the Column Widget. Correspondingly, you see the Circle Avatar Widget. This widget helps to make a circular image. Besides, a specific font is used for the website name. Moreover, Divider Widget is used to separate the Containers and website subtitles. On the other hand, Icon Widget and Text Widget are used with Row Widget in Containers. Finally, developers can see how to create an icon for their flutter app. <a href="https://synta-x.com/" target="_blank">Synta-X Tech Blog</a>  
+This app is a blog site contact page and shows how developers can use the Column Widget. Correspondingly, you see the Circle Avatar Widget. This widget helps to make a circular image. Besides, a specific font is used for the website name. Moreover, Divider Widget is used to separate the Containers and website subtitles. On the other hand, Icon Widget and Text Widget are used with Row Widget in Containers. Finally, developers can see how to create an icon for their flutter app.
+<a href="https://synta-x.com/" target="_blank">Visit Synta-X Blog</a>
  
 <h2> Used Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 42px> </h2>
 <div class="row">
